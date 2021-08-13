@@ -7,3 +7,4 @@ title: My preprints
  * [SAT modulo Discrete Event Simulation Applied to Railway Design Capacity Analysis](satmoddes-railway-capacity-2021-03-18.pdf)
  * [Synthesis of Railway Signaling Layout from Local Capacity Specifications](signaling-synthesis-2019-04-12.pdf)
  * [Efficient Verification of Railway Infrastructure Designs Against Standard Regulations](staticrules-2017-01-27.pdf)
+ * [RailCNL: A Controlled Natural Language for Railway Design Verification Specifications](railcnl-2019-05-07.pdf)
