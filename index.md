@@ -20,3 +20,6 @@ title: My preprints
 # Ph.D. thesis
 
 2019: [Automated Reasoning for Planning Railway Infrastructure](luteberget-thesis-plain-b5-2019-09-17.pdf)
+
+# Master's thesis
+2010: [Numerical approximation of conformal mappings](luteberget-numerical_approximation_of_conformal_mappings-2010.pdf)
