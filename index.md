@@ -4,6 +4,10 @@ title: My preprints
 
 # Papers
 
+ * [Abstraction Refinement of Parallel Transition Systems in an SMT-based Timeline Planner](smttimelines-2022-08-30.pdf) 
+ 2021 - Bjørnar Luteberget, Synne Fossøy
+ * [Improving Online Railway Deadlock Detection using a Partial Order Reduction](deadlockrail-2021-10-08.pdf)  
+ 2021 - Bjørnar Luteberget
  * [Improving Online Railway Deadlock Detection using a Partial Order Reduction](deadlockrail-2021-10-08.pdf)  
  2021 - Bjørnar Luteberget
  * [Drawing with SAT: Four Methods and A Tool for Producing Railway Infrastructure Schematics](schematic-2021-03-18.pdf)  
