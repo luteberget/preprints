@@ -4,10 +4,10 @@ title: My preprints
 
 # Papers
 
+ * [Feasibility Jump: an LP-free Lagrangian MIP heuristic](feasibilityjump-2022-11-07.pdf)  
+ 2022 - Bjørnar Luteberget, Giorgio Sartor
  * [Abstraction Refinement of Parallel Transition Systems in an SMT-based Timeline Planner](smttimelines-2022-08-30.pdf)  
- 2021 - Bjørnar Luteberget, Synne Fossøy
- * [Improving Online Railway Deadlock Detection using a Partial Order Reduction](deadlockrail-2021-10-08.pdf)  
- 2021 - Bjørnar Luteberget
+ 2021-2022 - Bjørnar Luteberget, Synne Fossøy
  * [Improving Online Railway Deadlock Detection using a Partial Order Reduction](deadlockrail-2021-10-08.pdf)  
  2021 - Bjørnar Luteberget
  * [Drawing with SAT: Four Methods and A Tool for Producing Railway Infrastructure Schematics](schematic-2021-03-18.pdf)  
