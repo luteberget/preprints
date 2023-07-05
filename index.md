@@ -4,6 +4,8 @@ title: My preprints
 
 # Papers
 
+ * [An optimization-based decision support tool for incremental train timetabling](orptool-2023-07-05.pdf)  
+ 2023 - Oddvar Kloster, Bjørnar Luteberget, Carlo Mannino, Giorgio Sartor
  * [Feasibility Jump: an LP-free Lagrangian MIP heuristic](feasibilityjump-2023-01-09.pdf)  
  2022 - Bjørnar Luteberget, Giorgio Sartor
  * [Abstraction Refinement of Parallel Transition Systems in an SMT-based Timeline Planner](smttimelines-2022-08-30.pdf)  
